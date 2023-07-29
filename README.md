@@ -6,11 +6,11 @@
 <br>
 
 ## Table of contents
-1. [Introduction](https://github.com/marihere/subliminally#Introduction)
-2. [Getting started](https://github.com/marihere/subliminally#Getting_started)
-3. [Usage](https://github.com/marihere/subliminally_gui#Usage)
-4. [Example](https://github.com/marihere/subliminally#Example)
-5. [Unlicense](https://github.com/marihere/subliminally#Unlicense)
+1. [Introduction](https://github.com/marihere/subliminally#introduction)
+2. [Getting started](https://github.com/marihere/subliminally#getting-started)
+3. [Usage](https://github.com/marihere/subliminally_gui#usage)
+4. [Example](https://github.com/marihere/subliminally#example)
+5. [Unlicense](https://github.com/marihere/subliminally#unlicense)
 
 <br>
 
