@@ -54,10 +54,10 @@ Let's see the differences between the two:
 
 #### CLI version
 
-```
-git clone https://github.com/marihere/subliminally
-cd subliminally
-python .\lib\main.py
+```console
+$ git clone https://github.com/marihere/subliminally
+$ cd subliminally
+$ python .\lib\main.py
 ```
 
 #### GUI version
@@ -67,7 +67,7 @@ The GUI version can be found [here](https://github.com/marihere/subliminally_gui
 ## Usage
 
 ```console
-python .\lib\main.py --help
+$ python .\lib\main.py --help
 usage: main.py [-h] -t TITLE -a AFFS -b BG -i IMG
 
 Subliminally: Create Subliminals Easily
@@ -85,8 +85,8 @@ optional arguments:
 
 ## Example
 
-```
-python .\lib\main.py --title mysubliminal --affs .\example\affirmations.txt --bg .\example\rainfall_sounds.wav --img .\example\image.jpg
+```console
+$ python .\lib\main.py --title mysubliminal --affs .\example\affirmations.txt --bg .\example\rainfall_sounds.wav --img .\example\image.jpg
 ```
 
 ### Result:
