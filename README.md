@@ -99,4 +99,4 @@ $ python .\lib\main.py --title mysubliminal --affs .\example\affirmations.txt --
 
 ## Unlicense
 
-[The Unlicense](https://github.com/marihere/subliminally/blob/master/UNLICENSE)
+[The Unlicense](https://github.com/marihere/subliminally/blob/main/UNLICENSE)
