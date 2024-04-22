@@ -11,14 +11,11 @@ Subliminally: Create Subliminals Easily
 
 parser = argparse.ArgumentParser(description=banner)
 
-# title argument
-parser.add_argument('-t', '--title', required=True, help='title for your subliminal')
-# affs argument
-parser.add_argument('-a', '--affs', required=True, help='text file of the affirmations for your subliminal')
-# bg argument
-parser.add_argument('-b', '--bg', required=True, help='audio file for your subliminal')
-# img argument
-parser.add_argument('-i', '--img', required=True, help='image file for your subliminal')
+# required arguments
+parser.add_argument('-t', '--title', required=True, help='title for your subliminal') # title argument
+parser.add_argument('-a', '--affs', required=True, help='text file of the affirmations for your subliminal')  # affirmations argument
+parser.add_argument('-b', '--bg', required=True, help='audio file for your subliminal') # background argument
+parser.add_argument('-i', '--img', required=True, help='image file for your subliminal') # image argument
 
 args = parser.parse_args()
 
