@@ -1,3 +1,7 @@
+This fork:
+1. Stubs video maker as it was deemed unnecessary
+2. Precreates the .files and subliminals/audios directories
+
 <img src="https://github.com/marihere/subliminally/blob/main/images/banner.png">
 
 #
