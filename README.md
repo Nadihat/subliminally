@@ -1,6 +1,8 @@
 This fork:
 1. Stubs video maker as it was deemed unnecessary
 2. Precreates the .files and subliminals/audios directories
+3. Makes the image argument optional (as it's unnecessary now)
+4. Unversions the dependencies to fix bitrot
 
 <img src="https://github.com/marihere/subliminally/blob/main/images/banner.png">
 
