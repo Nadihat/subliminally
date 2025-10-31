@@ -1,6 +1,6 @@
 import argparse
 
-from sub_maker import *
+from sub import *
 
 
 banner = '''
@@ -15,6 +15,7 @@ parser.add_argument('-t', '--title', required=True, help='title for your sublimi
 parser.add_argument('-a', '--affs', required=True, help='text file of the affirmations for your subliminal')  # affirmations argument
 parser.add_argument('-b', '--bg', required=True, help='audio file for your subliminal') # background argument
 parser.add_argument('-i', '--img', required=False, help='image file for your subliminal') # image argument
+parser.add_argument('-r', '--reps', required=False, help='text repetitions for your subliminal') # image argument
 
 args = parser.parse_args()
 
