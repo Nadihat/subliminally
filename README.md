@@ -4,6 +4,7 @@ This fork:
 3. Makes the image argument optional (as it's unnecessary now)
 4. Unversions the dependencies to fix bitrot
 5. Restricts the librosa import to `get_duration`, which is the only part it actually needs, accelerating startup
+6. Adds an updated sub_maker.py that repeats (duplicates) the amount of intentions in the file into a specified amount of pulses.
 as well as adds an experimental babble_maker.py, that uses pydub and may be very effective, perhaps even more so than this project.
 
 <img src="https://github.com/marihere/subliminally/blob/main/images/banner.png">
