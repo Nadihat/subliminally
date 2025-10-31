@@ -3,7 +3,7 @@
 
 from gtts import gTTS
 from pydub import AudioSegment
-from librosa import *
+from librosa import get_duration
 
 
 def sub_creator(title, affs_path, bg_path):

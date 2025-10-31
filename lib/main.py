@@ -1,6 +1,6 @@
 import argparse
 
-from sub_maker import *
+from sub import *
 
 
 banner = '''
